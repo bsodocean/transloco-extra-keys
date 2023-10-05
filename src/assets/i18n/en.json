@@ -1,0 +1,18 @@
+{
+  "apiErrorMessages": {
+    "changePasswordErrorMessages": {
+      "4": "No resources",
+      "5": "System is read-only",
+      "6": "Not accepted",
+      "100": "Login failed",
+      "103": "New password does not follow password policy",
+      "104": "New password matches former password"
+    },
+    "loginErrorMessages": {
+      "4": "No resources",
+      "100": "Login failed",
+      "101": "Already authenticated",
+      "102": "Login Failed - Password expired"
+    }
+  }
+}
